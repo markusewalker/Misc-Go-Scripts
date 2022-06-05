@@ -6,8 +6,8 @@ Basic CLI Calculator tool in Go that utilizes Cobra. The following operations ar
 ### Getting Started
 To utilize this script, please follow the below workflow:
 
-1. Clone the script into your environment.\
-2. Run the following command: `go install calc`.\
+1. Clone the script into your environment.
+2. Run the following command: `go install calc`.
 3. You should be able to now run `calc -h` to view the options available to run this CLI tool.
 
 See the usage of the CLI tool below:
